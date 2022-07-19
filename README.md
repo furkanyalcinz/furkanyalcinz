@@ -22,6 +22,10 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 </p>
+
+[![Furkan Yalçın's github stats](https://github-readme-stats.vercel.app/api?username=furkanyalcinz&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/furkanyalcinz/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyalcinz&theme=dark)](https://github.com/furkanyalcinz/github-readme-stats)
+
 <!--
 
 
@@ -37,6 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Furkan Yalçın's github stats](https://github-readme-stats.vercel.app/api?username=furkanyalcinz&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/furkanyalcinz/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyalcinz&theme=dark)](https://github.com/furkanyalcinz/github-readme-stats)
 
