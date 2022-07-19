@@ -1,7 +1,7 @@
 ### Hi, I am Furkan. 
 
 <!--
-**utkudogrusoz/utkudogrusoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Furkan Yalçın's github stats](https://github-readme-stats.vercel.app/api?username=furkanyalcinz&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/furkanyalcinz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyalcinz&theme=dark)](https://github.com/furkanyalcinz/github-readme-stats)
+[![Furkan Yalçın's github stats](https://github-readme-stats.vercel.app/api?username=furkanyalcinz&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/furkanyalcinz/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyalcinz&theme=dark)](https://github.com/furkanyalcinz/github-readme-stats)
 
