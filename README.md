@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning Machine Learning
   - 📫 How to reach me: 
     
-    Email = **furkanyalcin0234@outlook.com**
+    Email: **furkanyalcin0234@outlook.com**
     
     Social medias: <a href="https://linkedin.com/in/furkanyalcinz" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="furkanyalcinz" height="30" width="30" /></a>   <a href="https://instagram.com/furkanyalcinz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="furkanyalcinz" height="30" width="30" /></a>
 
