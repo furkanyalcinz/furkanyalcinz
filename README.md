@@ -1,7 +1,7 @@
 ### Hi, I am Furkan. 
 
-  - 🔭 I’m currently working on Robotic Process Automation using Python
-  - 🌱 I’m currently learning Machine Learning
+  - 🔭 I’m currently working on backend development using c#
+  - 🌱 I’m currently learning React
   - 📫 How to reach me: 
     
     Email: **furkanyalcin0234@outlook.com**
