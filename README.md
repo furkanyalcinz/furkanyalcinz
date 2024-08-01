@@ -1,14 +1,4 @@
 ### Hi, I am Furkan. 
-
-  - 🔭 I’m currently working on backend development using c#
-  - 🌱 I’m currently learning React
-  - 📫 How to reach me: 
-    
-    Email: **furkanyalcin0234@outlook.com**
-    
-    Social medias: <a href="https://linkedin.com/in/furkanyalcinz" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="furkanyalcinz" height="30" width="30" /></a>
-
-
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
